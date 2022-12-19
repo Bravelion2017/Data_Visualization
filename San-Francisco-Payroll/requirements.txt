@@ -1,0 +1,14 @@
+numpy
+matplotlib
+pandas
+seaborn
+scipy
+tabulate
+prettytable
+plotly
+dash
+statsmodels
+scikit-learn
+opencv-python
+scikit-image
+pillow
