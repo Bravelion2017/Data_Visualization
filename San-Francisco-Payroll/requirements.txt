@@ -12,3 +12,9 @@ scikit-learn
 opencv-python
 scikit-image
 pillow
+gunicorn
+dash_bootstrap_components
+dash-renderer
+dash-html-components
+dash-core-components 
+pybase64
