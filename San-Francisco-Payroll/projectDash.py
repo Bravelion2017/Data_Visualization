@@ -193,7 +193,7 @@ figcount.update_layout(uniformtext_minsize=8, uniformtext_mode='hide')
 main_df = df_no_outlier
 
 my_app= dash.Dash(__name__,external_stylesheets=[dbc.themes.SOLAR]) #dbc.themes.MORPH
-
+server= app.server
 
 
 
@@ -601,8 +601,7 @@ def update(a,b):
 # Please Note: host='127.0.0.1' works for me else host='0.0.0.0' Thank you.
 if __name__ == '__main__':
     my_app.run_server(
-        port = random.randint(8000,9999), #8080
-        host = "127.0.0.1"
+        debug=True
     )
 
 #df_clean[df_clean['Job Title']=="Electrical Transit System Mech"][cat2].sum()
