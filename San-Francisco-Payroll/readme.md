@@ -1,6 +1,6 @@
 #### DATA LINK
 https://raw.githubusercontent.com/Bravelion2017/Dash/main/san-francisco-payroll_2011-2019.csv
-Replace the link above for data in line .
+Replace the link above for data in line 109 in projectDash.py & line 65 in projectMain.py.
 
 #### TO RUN THE CODE:
 
