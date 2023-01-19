@@ -1,3 +1,7 @@
+#### DATA LINK
+https://raw.githubusercontent.com/Bravelion2017/Dash/main/san-francisco-payroll_2011-2019.csv
+Replace the link above for data in line .
+
 #### TO RUN THE CODE:
 
 PLEASE HAVE THE DATASET IN THE SAME FOLDER AS 
