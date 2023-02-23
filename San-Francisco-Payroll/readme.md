@@ -10,5 +10,6 @@ EVERYTHING SHOULD BE WORKING AS EXPECTED.
 
 #### DASH HOST:
 THE HOST IP CAN BE CHANGED TO 0.0.0.0
+Hosted App Link: https://dashapp-mknmzn5f2a-pd.a.run.app/
 
 THANK YOU.
